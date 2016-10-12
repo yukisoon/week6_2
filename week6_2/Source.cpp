@@ -79,9 +79,6 @@ public:
 	{
 		T_OPERATION operation;
 		operation.draw();
-
-		
-
 	}
 };
 
