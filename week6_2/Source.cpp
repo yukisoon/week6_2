@@ -18,7 +18,7 @@ public:
 		my_painter.drawLine(250, 350, 250, 400, 0.0f, 0.0f, 1.0f);
 	}
 };
-
+ 
 class Circle // NO PARENT (2pts)
 {
 public:
