@@ -82,6 +82,7 @@ public:
 	}
 };
 
+
 // And implement an templatized GeometricObject class. (3pts)
 int main()
 {
